@@ -1,0 +1,33 @@
+# Build folders
+cmake-build-*/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# JetBrains IDE files
+.idea/
+*.iml
+
+# Compiled binary files
+*.exe
+*.out
+*.o
+*.obj
+
+# Logs
+*.log
+
+# Backup files
+*~
+*.swp
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# User-specific
+*.user
+*.directory
